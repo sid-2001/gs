@@ -1,0 +1,53 @@
+
+html,body{
+    
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar{
+    
+    
+}
+
+
+.imagesg{
+    border:1px solid black; 
+/*    position: relative;*/
+    
+    background-image: url(1.png);
+height:9.4rem;
+
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    display: table;
+    
+}
+.kaushik{
+    display: table-cell;
+    vertical-align: middle;
+    z-index:-1;
+    position: relative;
+    background-color:white;;
+    height:100%;
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+}
+.imagesg:hover{
+    opacity:0.9999;
+    }
+.heading{
+    
+    text-align: center;
+    font-family: cursive;
+    font-size: 3rem;
+
+}
+.upar{
+    height: 3rem;
+    
+}
